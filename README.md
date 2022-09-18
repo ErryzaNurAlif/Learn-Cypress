@@ -1,4 +1,4 @@
-# Sign In/Sign Up for Testing
+# Sign In/Sign Up with Cypress
 ## Installing
 
 Install Cypress via npm:
